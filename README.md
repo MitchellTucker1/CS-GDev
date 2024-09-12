@@ -1,72 +1,134 @@
-# Game Dev Workshop: Introduction 🎮
+# Game Dev Workshop: Introduction to Game Development 🎮
+
+### Table of Contents
+* [TODO](#todo)
+* [Overview](#overview)
+* [Workshop Objectives](#workshop-objectives)
+* [Quick Start](#quick-start)
+* [Game Assets](#game-assets)
+* [Tools & Resources](#tools--resources)
+* [Video Demo](#video-demo)
+* [Feedback](#feedback)
+
+
+---
 
 ## Overview
 
-Welcome to the **Introduction to Game Development Workshop**! This workshop is designed for beginners who are interested in learning the fundamentals of game development. By the end of this session, participants will have built a simple game and gained a basic understanding of the game development process.
+Welcome to the **Introduction to Game Development Workshop**! This workshop is tailored for beginners who are eager to learn the fundamentals of game development. By the end of the session, you'll have created a simple game and gained a solid understanding of how to continue building on these skills.
 
 ## Workshop Objectives
 
-By the end of this workshop, participants will:
-1. **Understand** the basic concepts of game development, including game loops, sprites, and collision detection.
-
-2. **Install** and set up a game development environment using [INSERT TOOL HERE] (e.g., Unity, Unreal Engine, Godot).
-
-3. **Create** a simple 2D game project from scratch.
-
-4. **Learn** how to move characters and objects in a game world.
-
-5. **Implement** basic game mechanics such as player input, scoring, and winning/losing conditions.
-
-6. **Test** and debug the game project to ensure functionality.
-
-7. **Gain confidence** in exploring further topics in game development.
+By participating in this workshop, you will:
+1. **Understand** the key concepts of game development, such as game loops, sprites, and collision detection.
+2. **Set up** a game development environment using [INSERT TOOL HERE] (e.g., Unity, Unreal Engine, Godot).
+3. **Create** a basic 2D game from scratch.
+4. **Learn** to control characters and objects in a game world.
+5. **Implement** game mechanics like player input, scoring, and win/loss conditions.
+6. **Test and debug** your game for functionality and performance.
+7. **Feel confident** in your ability to explore more advanced game development topics.
 
 ## Quick Start 
 
+To get started right away, follow these steps:
 
+1. **Download the GitHub Repo**: 
+   - [Download the repository](#) as a ZIP file.
+
+2. **Unzip the Project**:
+   - Extract the ZIP file to a designated folder on your machine.
+
+3. **Launch Godot**:
+   - Open Godot and **import the project**.
+   - Navigate to where you saved your project to load it into the engine.
+
+4. **Explore the Starter Level**:
+   - Open the starter level in the project to familiarize yourself with the basic setup.
+
+5. **Start Building**:
+   - Begin by modifying and adding new elements to the starter level to create your own game.
 
 ## Workshop Outline
 
-### 1. Introduction (10 minutes)
-- Welcome and objectives overview
-- Introduction to game development
+### 1. Introduction
+   - Overview of the workshop objectives and schedule.
+   - Brief introduction to the world of game development.
 
-### 2. Setting Up the Environment (15 minutes)
-- Downloading and installing [INSERT TOOL HERE]
-- Setting up your first game project
+### 2. Setting Up the Environment
+   - Step-by-step guide on how to install and configure [INSERT TOOL HERE].
+   - Walkthrough of project setup and environment basics.
 
-### 3. Basic Game Concepts (20 minutes)
-- Understanding the game loop
-- Sprites, assets, and the game world
+### 3. Basic Game Concepts
+   - What are **game loops**, and why are they important?
+   - Introduction to **sprites** and **game assets**.
+   - Understanding **collision detection** and **game world dynamics**.
 
-### 4. Hands-on: Building Your First Game (45 minutes)
-- Creating a simple game environment
-- Adding and controlling a player character
-- Implementing basic game mechanics (movement, collision detection, and scoring)
+### 4. Hands-on: Building Your First Game
+   - Start building your game by adding characters and objects.
+   - Implementing simple mechanics: player movement, collision, and scoring.
+   - Building levels and incorporating game logic.
 
-### 5. Testing and Debugging (20 minutes)
-- Running your game
-- Fixing common bugs
+### 5. Testing and Debugging
+   - Testing the game within the engine.
+   - How to identify and fix common bugs.
+   - Playtesting your game and improving its design.
 
-### 6. Q&A / Wrap-up (10 minutes)
-- Open Q&A session
-- Resources for further learning
+### 6. Q&A / Wrap-up
+   - Open floor for participant questions and troubleshooting.
+   - Additional resources for further learning and next steps.
+
+---
 
 ## Tools & Resources
 
-1. **Game Engine**: [Insert link to the game engine's download page]
-2. **Tutorial Resources**: [Insert links to any resources/tutorials you'll be using]
-3. **Sample Project**: [Insert link to GitHub or other platform for participants to access sample project files]
+1. **Game Engine**: [Download Godot](https://godotengine.org/download) or [Insert relevant game engine link].
+2. **Tutorial Resources**:
+   - [Official Godot Docs](https://docs.godotengine.org/en/stable/)
+   - [Beginner's Game Development Guide](#)
+3. **Sample Project**: [Link to GitHub Repository or another file-sharing platform](#).
 
-## Getting Help
+## Game Assets
 
-If you run into any issues during the workshop, feel free to ask questions or refer to the following resources:
-- [Official Documentation for the Game Engine]
-- [Forum/Discord for Game Developers]
+- **Dino Project**: The project header and assets will include visuals from a dinosaur-themed project for beginners to practice with.
+- **Free Game Design Libraries**:
+   - [Kenney Assets](https://kenney.nl/assets)
+   - [OpenGameArt](https://opengameart.org)
+
+---
+
+## Video Demo
+
+To preview what you will be working on, check out this [video demo](#) of the finished project.
+
+---
 
 ## Feedback
 
-We would love to hear your thoughts on this workshop! Please fill out this [feedback form](#) after the session to help us improve future events.
+We value your feedback! After the workshop, please take a moment to fill out our [feedback form](#) to help us improve future events and workshops.
+
+---
+
+## TODO
+
+- **Short Presentation**
+    - What is a:
+        - **Sprite**: An image used to represent characters, objects, or backgrounds.
+        - **Bounding Boxes**: Rectangles that define the area for collision detection.
+        - **Game Loop**: The cycle that keeps the game running by updating frames.
+        - **Collision Detection**: The method of detecting when objects in the game world interact.
+        - **Game Physics**: How objects move, behave, and interact based on certain rules.
+        - **Assets**: Resources like images, sound, and text that are used in the game.
+        - **User Interface (UI)**: The interactive elements like buttons, menus, and HUD.
+        - **Player Input**: How a player controls the game (e.g., keyboard, mouse, controller).
+        - **Level Design**: Structuring the game environment for player interaction.
+        - **AI (Artificial Intelligence)**: How non-player characters (NPCs) behave in the game.
+
+- **Assets**:
+    - Add **Dino Project** assets to the header.
+    - Include links to additional game design libraries (e.g., Kenney or OpenGameArt).
+
+- **Starter Code**:
+    - Prepare the **Godot** starter project with a basic menu and a start level for participants to build upon.
 
 ---
 
