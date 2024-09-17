@@ -1,4 +1,11 @@
-# Game Dev Workshop: Introduction to Game Development 🎮
+![alt text](./ReadMeAssets/header.png "Header")
+
+![CS](https://img.shields.io/badge/SBCC-CSCLUB-blue)
+![ENG](https://img.shields.io/badge/ENG-GODOT-green)
+![LEVEL](https://img.shields.io/badge/LEVEL-INTRO-lightgreen)
+![ENG](https://img.shields.io/badge/ENG-GODOT-green)
+
+# GDEV Workshop🎮
 
 ### Table of Contents
 * [TODO](#todo)
@@ -22,27 +29,72 @@ Welcome to the **Introduction to Game Development Workshop**! This workshop is t
 By participating in this workshop, you will:
 1. **Understand** the key concepts of game development, such as game loops, sprites, and collision detection.
 2. **Set up** a game development environment using [INSERT TOOL HERE] (e.g., Unity, Unreal Engine, Godot).
-3. **Create** a basic 2D game from scratch.
+3. **Create** a basic 2D game.
 4. **Learn** to control characters and objects in a game world.
 5. **Implement** game mechanics like player input, scoring, and win/loss conditions.
-6. **Test and debug** your game for functionality and performance.
+6. **Test and debug** your game for functionality.
 7. **Feel confident** in your ability to explore more advanced game development topics.
 
-## Quick Start 
+## Quick Start 🚀
 
 To get started right away, follow these steps:
 
 1. **Download the GitHub Repo**: 
-   - [Download the repository](#) as a ZIP file.
+   - [Download the repository](https://github.com/MitchellTucker1/CS-GDev) as a ZIP file.
 
 2. **Unzip the Project**:
    - Extract the ZIP file to a designated folder on your machine.
 
-3. **Launch Godot**:
-   - Open Godot and **import the project**.
-   - Navigate to where you saved your project to load it into the engine.
+   - WHERE SAVING?
 
-4. **Explore the Starter Level**:
+3. **GoDot Project Startup**:
+
+   1. **Launch Godot** 
+
+      - Open File Explore and copy and past the following path to GoDot's executable into the seach bar.
+
+         *This PC -> Local Disk (C:) -> SBCC -> apps -> Godot_v4.2.2-stable_win64*
+         ```
+            C:\SBCC\apps\Godot_v4.2.2-stable_win64
+         ```
+
+      - Double click *stable_win64* to launch Godot
+         <details>
+         <summary><b>Example</b></summary>
+
+         ![alt text](./ReadMeAssets/launchPath.png "Path")
+         </details>
+      
+
+   2. **Import the starter project**
+
+      *Note: On launch you may be prompt to explore official examples projects, select (**Cancel**)*
+
+      1. Select **Import**.
+
+         <details>
+         <summary><b>Visual</b></summary>
+
+         ![alt text](./ReadMeAssets/import.png "Import")
+         </details>
+      
+
+      2. Navigate to where you saved the starter project directory | folder
+         <details>
+         <summary><b>Visual</b></summary>
+
+         ![alt text](./ReadMeAssets/repoLocation.png "Import")
+         </details>
+
+      3. Finally select Import & Edit
+
+         <details>
+         <summary><b>Visual</b></summary>
+
+         ![alt text](./ReadMeAssets/importEdit.png "Import")
+         </details>
+
+4. **Explore the Starter Level**
    - Open the starter level in the project to familiarize yourself with the basic setup.
 
 5. **Start Building**:
