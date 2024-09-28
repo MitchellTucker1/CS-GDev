@@ -3,12 +3,9 @@
 ![CS](https://img.shields.io/badge/SBCC-CSCLUB-blue)
 ![ENG](https://img.shields.io/badge/ENG-GODOT-green)
 ![LEVEL](https://img.shields.io/badge/LEVEL-INTRO-lightgreen)
-![ENG](https://img.shields.io/badge/ENG-GODOT-green)
 
 # GDEV Workshop🎮
 
-### Table of Contents
-* [TODO](#todo)
 * [Overview](#overview)
 * [Workshop Objectives](#workshop-objectives)
 * [Quick Start](#quick-start)
@@ -22,22 +19,26 @@
 
 ## Overview
 
-Welcome to the **Introduction to Game Development Workshop**! This workshop is tailored for beginners who are eager to learn the fundamentals of game development. By the end of the session, you'll have created a simple game and gained a solid understanding of how to continue building on these skills.
+Welcome to the **Introduction to Game Development Workshop**! This workshop is tailored for beginners who are eager to learn the fundamentals of game development.
 
-## Workshop Objectives
+## Workshop Objectives 🏗️
 
-By participating in this workshop, you will:
 1. **Understand** the key concepts of game development, such as game loops, sprites, and collision detection.
-2. **Set up** a game development environment using [INSERT TOOL HERE] (e.g., Unity, Unreal Engine, Godot).
+2. **Set up** a game development environment using Godot
 3. **Create** a basic 2D game.
-4. **Learn** to control characters and objects in a game world.
-5. **Implement** game mechanics like player input, scoring, and win/loss conditions.
+
+4. **Learn** 
+            - Game world physics
+            - Collision Object types
+            - Controlling characters 
+
+5. **Implement** game mechanics like player input collitions.
 6. **Test and debug** your game for functionality.
 7. **Feel confident** in your ability to explore more advanced game development topics.
 
 ## Quick Start 🚀
 
-To get started right away, follow these steps:
+Quick start to get the Godot starter project up and running
 
 1. **Download the GitHub Repo**: 
    - [Download the repository](https://github.com/MitchellTucker1/CS-GDev) as a ZIP file.
@@ -45,7 +46,6 @@ To get started right away, follow these steps:
 2. **Unzip the Project**:
    - Extract the ZIP file to a designated folder on your machine.
 
-   - WHERE SAVING?
 
 3. **GoDot Project Startup**:
 
@@ -183,5 +183,3 @@ We value your feedback! After the workshop, please take a moment to fill out our
     - Prepare the **Godot** starter project with a basic menu and a start level for participants to build upon.
 
 ---
-
-**Happy Game Developing!** 🎮
